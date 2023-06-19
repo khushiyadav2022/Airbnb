@@ -56,7 +56,12 @@ Data dictionaries are used to provide detailed information about the contents of
 
 **license:** The license/permit/registration number associated with the listing.
 
-[Notebook](https://github.com/khushiyadav2022/Airbnb/blob/90090323e14dbb307716d3503f7867d6a1908c56/airbnb-data-analysis-project.ipynb)
+Check out - 
+[Notebook](https://github.com/khushiyadav2022/Airbnb/blob/dfadf766cd760b0270ec71b57bc6c3000c6bd6d7/airbnb-data-analysis-project%20(2).ipynb)<br>
+[Power BI Dashboard]()<br>
+- Dashboard 1 
+- Dashboard 2
+- Dashboard 3
 
 # Data Understanding
 - Here we have a DataFrame with 102,599 rows and 26 columns.
@@ -133,4 +138,17 @@ Both "Lat" and "Long" has 8 null values for the same index number. we took and t
 - The most popular property type is "Home away from home," followed by "Hillside Hotel."
 
 - Among hosts, the most popular name is Michael, followed by David.
+
+# Message to stackholder:
+
+- Manhattan is the most popular neighborhood on Airbnb, followed by Brooklyn. Bedford-Stuyvesant has the highest number of listings, while Williamsburg is the second highest.
+- Prices of listings have a strong positive correlation with service fees, indicating higher-priced listings tend to have higher associated fees.
+- Listings with more reviews tend to receive a higher average number of reviews per month, indicating popular listings attract ongoing attention from guests.
+- The highest average prices were observed between 2012 and 2014, followed by a significant decrease after 2014.
+- The most prevalent property type in Manhattan is the entire room/apartment, while private rooms are more common in Brooklyn.
+
+
+
+
+
 

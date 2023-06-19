@@ -7,6 +7,8 @@ Airbnb, Inc is an American company that operates an online marketplace for lodgi
 
 Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in New York City
 
+[Kaggle link](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata)
+
 # Data Dictionary
 Data dictionaries are used to provide detailed information about the contents of a dataset or database, such as the names of measured variables, their data types or formats, and text descriptions. A data dictionary provides a concise guide to understanding and using the data.
 

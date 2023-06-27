@@ -59,8 +59,9 @@ Data dictionaries are used to provide detailed information about the contents of
 **license:** The license/permit/registration number associated with the listing.
 
 Check out - 
+
 [Notebook](https://github.com/khushiyadav2022/Airbnb/blob/dfadf766cd760b0270ec71b57bc6c3000c6bd6d7/airbnb-data-analysis-project%20(2).ipynb)<br>
-[Power BI Dashboard Pibx File]()<br>
+[Power BI Dashboard Pbix File](https://github.com/khushiyadav2022/Airbnb/blob/8aee16b062ddd5633bebb1ee9058582057a29d01/Airbnb_Dashboard.pbix)<br>
 
 - Dashboard 1
 

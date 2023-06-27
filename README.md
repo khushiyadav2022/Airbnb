@@ -60,10 +60,21 @@ Data dictionaries are used to provide detailed information about the contents of
 
 Check out - 
 [Notebook](https://github.com/khushiyadav2022/Airbnb/blob/dfadf766cd760b0270ec71b57bc6c3000c6bd6d7/airbnb-data-analysis-project%20(2).ipynb)<br>
-[Power BI Dashboard]()<br>
-- Dashboard 1 
+[Power BI Dashboard Pibx File]()<br>
+
+- Dashboard 1
+
+<img width="533" alt="D1" src="https://github.com/khushiyadav2022/Airbnb/assets/108923908/f6eeaa5d-b266-4059-b2bc-2619468f8ec5">
+
 - Dashboard 2
+
+<img width="533" alt="D2" src="https://github.com/khushiyadav2022/Airbnb/assets/108923908/89331ebc-b6bb-43d4-b99e-d432d105ac65">
+
+<img width="536" alt="D2_dESC" src="https://github.com/khushiyadav2022/Airbnb/assets/108923908/5bab7400-7b23-4a9b-9e40-aadf17fc21e5">
+
 - Dashboard 3
+  
+<img width="534" alt="D3" src="https://github.com/khushiyadav2022/Airbnb/assets/108923908/528498e5-817b-4a17-b709-afdaf2cab1c3">
 
 # Data Understanding
 - Here we have a DataFrame with 102,599 rows and 26 columns.

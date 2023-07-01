@@ -78,6 +78,7 @@ Check out -
 <img width="534" alt="D3" src="https://github.com/khushiyadav2022/Airbnb/assets/108923908/528498e5-817b-4a17-b709-afdaf2cab1c3">
 
 # Data Understanding
+
 - Here we have a DataFrame with 102,599 rows and 26 columns.
 
 - We have identified the presence of null values in various columns of the DataFrame.
